@@ -2,9 +2,6 @@ typographie
 ===========
 
 
-
-# Test
-
 | foo | bar |  
 |  ------	| ------	|  
 | bar | baz |  
@@ -39,7 +36,7 @@ convincingly that....
 
   [id]: /Users/adumasderauly/Desktop/IMG_1857.jpg "Title"
 
-|              | Grouping                    ||  
+  
 | First Header | Second Header | Third Header |  
 | ------------ | :-----------: | -----------: |  
 | Content      | *Long Cell*                 ||  
