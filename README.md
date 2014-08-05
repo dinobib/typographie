@@ -15,7 +15,7 @@ typographie
 |dgd|fdgfg| 
 
 
-> *Design is not just **what it looks like** and feels like.* 
+> *Design is not just __what it looks like__ and feels like.* 
 > Design is how it works.
 
 > Steve Jobs[^glossaryfootnote]
